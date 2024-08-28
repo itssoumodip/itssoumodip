@@ -23,4 +23,5 @@ As I continue to learn and grow, I'm always looking for new challenges and oppor
 
 “Opportunities don't happen. You create them.” - Chris Grosser
 
-![Soumodip's GitHub stats](https://github-readme-stats.vercel.app/api?username=itssoumodip&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itssoumodip&layout=compact&theme=radical)
+
