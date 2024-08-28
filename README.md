@@ -12,11 +12,8 @@ I'm a second-year BCA student at the Institute of Engineering & Management (IEM)
 - I love exploring new technologies and taking on challenges!
 - Favorite Quote: "Opportunities don't happen, you create them." - Chris Grosser
 - Favorite Quote: "Experience is merely the name men gave to their mistakes." - Oscar Wilde
-
-~ As I continue to learn and grow, I'm always looking for new challenges and opportunities to connect with like-minded individuals. Feel free to reach out to me for collaborations, discussions, or just to exchange ideas!
-
 <br><br>
-🤝 _Let's connect and collaborate on innovative projects. Feel free to reach out—I'm always excited about new opportunities and challenges!_
+🤝 _As I continue to learn and grow, I'm always looking for new challenges and opportunities to connect with like-minded individuals. Let's connect and collaborate on innovative projects. Feel free to reach out—I'm always excited about new opportunities and challenges!_
 <br>
 <br>
 
