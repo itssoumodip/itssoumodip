@@ -15,7 +15,6 @@ I'm a second-year BCA student at the Institute of Engineering & Management (IEM)
 
 As I continue to learn and grow, I'm always looking for new challenges and opportunities to connect with like-minded individuals. Feel free to reach out to me for collaborations, discussions, or just to exchange ideas!
 
-“Opportunities don't happen. You create them.” - Chris Grosser
 ## 📊 GitHub Stats
 
 ![Soumodip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itssoumodip&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itssoumodip&layout=compact&theme=radical)
