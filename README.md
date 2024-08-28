@@ -17,7 +17,7 @@ I'm a second-year BCA student at the Institute of Engineering & Management (IEM)
 
 ## 📊 GitHub Stats
 
-![Soumodip GitHub Stats](https://github-readme-stats.vercel.app/api?username=itssoumodip&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itssoumodip&layout=compact&theme=radical) 
+![Soumodip's GitHub stats](https://github-readme-stats.vercel.app/api?username=itssoumodip&show_icons=true&theme=radical)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/soumodip-das/](https://www.linkedin.com/in/soumodip-das-418abb270/))
