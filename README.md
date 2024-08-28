@@ -1,0 +1,23 @@
+Welcome to my GitHub profile!!
+
+## 🚀 About Me
+
+Myself **Soumodip Das**, 
+I'm a second-year BCA student at the Institute of Engineering & Management (IEM) with a growing passion for technology and software development.a driven second-year BCA student at the Institute of Engineering & Management (IEM). My passion for technology continues to grow as I delve into various domains.
+Alongside my studies, I'm actively creating educational content on [YouTube]
+
+## ✨ Fun Facts
+
+- I love exploring new technologies and taking on challenges!
+- Favorite Quote: "Opportunities don't happen, you create them." - Chris Grosser
+- Favorite Quote: "Experience is merely the name men gave to their mistakes." - Oscar Wilde
+
+## 📊 GitHub Stats
+
+![Soumodip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itssoumodip&show_icons=true&theme=radical)
+
+- [LinkedIn](https://www.linkedin.com/in/soumodip-das/)
+
+As I continue to learn and grow, I'm always looking for new challenges and opportunities to connect with like-minded individuals. Feel free to reach out to me for collaborations, discussions, or just to exchange ideas!
+
+“Opportunities don't happen. You create them.” - Chris Grosser
