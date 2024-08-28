@@ -1,4 +1,4 @@
-Welcome to my GitHub profile!!
+## Welcome to my GitHub profile!!
 
 ## About Me -
 
@@ -19,7 +19,6 @@ I'm a second-year BCA student at the Institute of Engineering & Management (IEM)
 
 ![Soumodip's GitHub stats](https://github-readme-stats.vercel.app/api?username=itssoumodip&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itssoumodip&layout=compact&theme=radical)
-/*![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=itssoumodip&theme=dracula)*/
 
 
 ## Socials -
