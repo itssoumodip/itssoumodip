@@ -5,7 +5,7 @@ Welcome to my GitHub profile!!
 Myself **Soumodip Das**, 
 I'm a second-year BCA student at the Institute of Engineering & Management (IEM) with a growing passion for technology and software development.a driven second-year BCA student at the Institute of Engineering & Management (IEM). My passion for technology continues to grow as I delve into various domains.
 
-Alongside my studies, I'm actively creating educational content on [YouTube]
+~ Alongside my studies, I'm actively creating educational content on [YouTube]
 
 ## ✨ Fun Facts
 
