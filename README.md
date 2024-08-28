@@ -22,7 +22,7 @@ I'm a second-year BCA student at the Institute of Engineering & Management (IEM)
 
 
 ## Socials -
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/soumodip-das/](https://www.linkedin.com/in/soumodip-das-418abb270/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumodip-das/](https://www.linkedin.com/in/soumodip-das-418abb270)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@brsoumodip)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/yourusername/](https://www.instagram.com/yoursoumodip/))
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourusername](https://x.com/das_soumod76155))
